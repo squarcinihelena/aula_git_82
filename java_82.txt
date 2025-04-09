@@ -1,2 +1,3 @@
 A turma Java 82 é TOP!
 As aulas de java começam na sexta feira!
+esta linha vai gerar conflito
